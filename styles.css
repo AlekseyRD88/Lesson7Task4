@@ -1,7 +1,7 @@
-.checkbox:checked {
+input[type="checkbox"]:checked {
    margin-left: 50px;
 }
-label:link {
+label {
    text-transform: uppercase;
 }
 #special::first-letter {
